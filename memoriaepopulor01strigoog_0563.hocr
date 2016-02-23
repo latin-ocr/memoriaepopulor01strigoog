@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./memoriaepopulor01strigoog_0563.png"; bbox 0 0 4592 6400; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 399 2131 2141 2871">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 399 2131 2141 2871">
+     <span class='ocr_line' id='line_1_1' title="bbox 399 2131 2141 2470; baseline -0.001 -80"><span class='ocrx_word' id='word_1_1' title='bbox 399 2185 1443 2390; x_wconf 79' lang='lat' dir='ltr'>GENEALOGIAE</span> <span class='ocrx_word' id='word_1_2' title='bbox 1621 2239 1651 2290; x_wconf 74' lang='lat'><strong>..</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1743 2181 1852 2470; x_wconf 66' lang='lat'><strong>&#39;.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2134 2131 2141 2142; x_wconf 77' lang='grc'>’</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 554 2537 2138 2871; baseline -0.003 -129"><span class='ocrx_word' id='word_1_5' title='bbox 554 2537 1338 2747; x_wconf 75' lang='lat' dir='ltr'><strong>GENTlvM·</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1608 2853 1614 2871; x_wconf 15' lang='lat'><strong>¹</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2134 2587 2138 2598; x_wconf 16' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 357 2905 1991 3328">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 357 2905 1991 3328">
+     <span class='ocr_line' id='line_1_3' title="bbox 802 2905 1949 3008; baseline 0.008 -9"><span class='ocrx_word' id='word_1_8' title='bbox 802 2987 806 2999; x_wconf 77' lang='grc'>,</span> <span class='ocrx_word' id='word_1_9' title='bbox 875 2905 962 2994; x_wconf 86' lang='lat' dir='ltr'><strong>EX</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1946 2999 1949 3008; x_wconf 82' lang='grc'>.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 357 3025 1991 3328; baseline -0.002 -80"><span class='ocrx_word' id='word_1_11' title='bbox 357 3121 915 3328; x_wconf 70' lang='lat' dir='ltr'>scmPTofflssvs</span> <span class='ocrx_word' id='word_1_12' title='bbox 943 3116 1477 3253; x_wconf 73' lang='lat' dir='ltr'><strong>BYZANTlle.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1710 3025 1757 3128; x_wconf 69' lang='lat'><em>³</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1987 3025 1991 3032; x_wconf 55' lang='grc'><em>’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2300 6400">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2300 6400">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2300 6400; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 2300 6400; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
